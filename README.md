@@ -1,4 +1,4 @@
-# current-library-versions
+# Current versions of CITE and related libraries
 
 
 
