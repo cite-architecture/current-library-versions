@@ -31,4 +31,4 @@
 - `gsphone 1.4.3`
 - `latphone 2.5.2`
 - `latin-text-model 1.3.0`
-- [`tabulae 5.0.1`](https://github.com/neelsmith/tabulae) ([bintray](https://bintray.com/neelsmith/maven/tabulae))
+- [`tabulae 5.1.0`](https://github.com/neelsmith/tabulae) ([bintray](https://bintray.com/neelsmith/maven/tabulae))
