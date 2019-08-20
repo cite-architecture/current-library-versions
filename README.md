@@ -19,6 +19,7 @@
 
 - `midvalidator 7.1.0`
 - `edu.holycross.shot.xmlutils 2.0.0`
+- `edu.holycross.shot.histoutils 1.0.0`
 
 ## HMT
 
