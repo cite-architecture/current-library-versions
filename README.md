@@ -31,5 +31,5 @@
 - `greek 2.4.0`
 - `gsphone 1.4.3`
 - `latphone 2.5.2`
-- `latin-text-model 1.3.0`
+- [`latin-text-model 1.3.0`](https://github.com/HCMID/latin-text-model)
 - [`tabulae 5.1.0`](https://github.com/neelsmith/tabulae) ([bintray](https://bintray.com/neelsmith/maven/tabulae))
