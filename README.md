@@ -19,7 +19,6 @@
 
 - [`midvalidator 7.2.0`](https://github.com/HCMID/projectvalidator)
 - `edu.holycross.shot.xmlutils 2.0.0`
-- [`edu.holycross.shot.histoutils 1.0.0`](https://github.com/neelsmith/histoutils)
 
 ## HMT
 
@@ -34,6 +33,7 @@
 - [`latin-text-model 1.3.0`](https://github.com/HCMID/latin-text-model)
 - [`tabulae 5.3.0`](https://github.com/neelsmith/tabulae) ([bintray](https://bintray.com/neelsmith/maven/tabulae))
 
-## Other
+## Analysis, other utilities
 
 - [`seqcomp 1.0.0`](https://github.com/neelsmith/lcs-scs)
+- [`edu.holycross.shot.histoutils 1.0.0`](https://github.com/neelsmith/histoutils)
