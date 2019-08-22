@@ -11,7 +11,7 @@
 - `citerelations 2.5.2`
 - `citewriter 1.0.2`
 - `dse 5.2.1`
-- [`ohco2 10.13.2`](https://github.com/cite-architecture/ohco2)
+- [`ohco2 10.14.0`](https://github.com/cite-architecture/ohco2)
 - `scm 7.0.1`
 - `xcite 4.1.0`
 
