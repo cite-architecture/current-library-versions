@@ -18,7 +18,7 @@
 ## Editing
 
 - [`midvalidator 7.2.0`](https://github.com/HCMID/projectvalidator)
-- `edu.holycross.shot.xmlutils 2.0.0`
+- [`xmlutils 2.0.0`](https://github.com/neelsmith/xmlutils)
 
 ## HMT
 
