@@ -17,7 +17,7 @@
 
 ## Editing
 
-- [`midvalidator 7.2.0`](https://github.com/HCMID/projectvalidator)
+- [`midvalidator 7.2.1`](https://github.com/HCMID/projectvalidator)
 - [`xmlutils 2.0.0`](https://github.com/neelsmith/xmlutils)
 
 ## HMT
