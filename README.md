@@ -8,8 +8,8 @@
 - [`citebinaryimage 3.1.0`](https://github.com/cite-architecture/citebinaryimage)
 - [`citejson 2.7.0`](https://github.com/cite-architecture/CITE-JSON)
 - `citeobj 7.3.4`
-- `citerelations 2.5.2`
-- `citewriter 1.0.2`
+- [`citerelations 2.5.2`](https://github.com/cite-architecture/citerelations)
+- [`citewriter 1.1.0`](https://github.com/cite-architecture/citewriter)
 - `dse 5.2.1`
 - [`ohco2 10.14.0`](https://github.com/cite-architecture/ohco2)
 - `scm 7.0.1`
