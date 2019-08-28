@@ -37,4 +37,4 @@
 ## Analysis, other utilities
 
 - [`seqcomp 1.0.0`](https://github.com/neelsmith/lcs-scs)
-- [`histoutils 1.4.0`](https://github.com/neelsmith/histoutils)
+- [`histoutils 2.0.0`](https://github.com/neelsmith/histoutils)
