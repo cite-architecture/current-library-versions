@@ -18,6 +18,7 @@
 ## Editing
 
 - [`midvalidator 8.0.0`](https://github.com/HCMID/projectvalidator)
+- [`midreaders 1.0.0`](https://github.com/hcmid/markupreaders)
 - [`xmlutils 2.0.0`](https://github.com/neelsmith/xmlutils)
 
 ## HMT
