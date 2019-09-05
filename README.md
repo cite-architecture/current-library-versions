@@ -30,7 +30,7 @@
 
 - `greek 2.4.0`
 - `gsphone 1.4.3`
-- [`latphone 2.5.2`](https://github.com/neelsmith/latphone)
+- [`latphone 2.6.0`](https://github.com/neelsmith/latphone)
 - [`latincorpus 1.6.0`](https://github.com/neelsmith/latin-corpus)
 - [`latin-text-model 1.3.0`](https://github.com/HCMID/latin-text-model)
 - [`tabulae 5.5.0`](https://github.com/neelsmith/tabulae) ([bintray](https://bintray.com/neelsmith/maven/tabulae))
