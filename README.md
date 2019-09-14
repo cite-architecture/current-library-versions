@@ -33,7 +33,7 @@
 - [`latphone 2.7.0`](https://github.com/neelsmith/latphone)
 - [`latincorpus 2.1.0`](https://github.com/neelsmith/latin-corpus)
 - [`latin-text-model 1.3.0`](https://github.com/HCMID/latin-text-model)
-- [`tabulae 6.0.0`](https://github.com/neelsmith/tabulae) ([bintray](https://bintray.com/neelsmith/maven/tabulae))
+- [`tabulae 6.0.1`](https://github.com/neelsmith/tabulae) ([bintray](https://bintray.com/neelsmith/maven/tabulae))
 
 ## Analysis, other utilities
 
