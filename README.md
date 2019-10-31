@@ -13,7 +13,7 @@
 - `dse 5.2.1`
 - [`ohco2 10.14.0`](https://github.com/cite-architecture/ohco2)
 - `scm 7.0.1`
-- [`xcite 4.1.0`](https://github.com/cite-architecture/xcite)
+- [`xcite 4.1.1`](https://github.com/cite-architecture/xcite)
 
 ## Editing
 
