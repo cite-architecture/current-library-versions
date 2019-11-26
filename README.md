@@ -12,7 +12,7 @@
 - [`citewriter 1.1.1`](https://github.com/cite-architecture/citewriter)
 - `dse 5.2.1`
 - [`ohco2 10.16.0`](https://github.com/cite-architecture/ohco2)
-- `scm 7.0.1`
+- [`scm 7.0.1`](https://github.com/cite-architecture/scm)
 - [`xcite 4.1.1`](https://github.com/cite-architecture/xcite)
 
 ## Editing
