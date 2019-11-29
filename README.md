@@ -9,7 +9,7 @@
 - [`citejson 2.7.0`](https://github.com/cite-architecture/CITE-JSON)
 - `citeobj 7.3.4`
 - [`citerelations 2.5.2`](https://github.com/cite-architecture/citerelations)
-- [`citewriter 1.1.1`](https://github.com/cite-architecture/citewriter)
+- [`citewriter 1.2.2`](https://github.com/cite-architecture/citewriter)
 - `dse 5.2.1`
 - [`ohco2 10.16.0`](https://github.com/cite-architecture/ohco2)
 - [`scm 7.0.1`](https://github.com/cite-architecture/scm)
