@@ -10,7 +10,7 @@ See API docs for all CITE libaries at <https://cite-architecture.github.io/cite-
 - [`citeobj 7.3.4`](https://github.com/cite-architecture/citeobj)
 - [`citerelations 2.5.2`](https://github.com/cite-architecture/citerelations)
 - [`citewriter 1.2.2`](https://github.com/cite-architecture/citewriter)
-- `dse 5.2.1`
+- [`dse 5.2.1`](https://github.com/cite-architecture/dse)
 - [`ohco2 10.16.0`](https://github.com/cite-architecture/ohco2)
 - [`scm 7.0.1`](https://github.com/cite-architecture/scm)
 - [`xcite 4.1.1`](https://github.com/cite-architecture/xcite)
