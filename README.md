@@ -1,13 +1,13 @@
 # Current versions of CITE and related libraries
 
-
+See API docs for all CITE libaries at <https://cite-architecture.github.io/cite-api-docs/>
 
 ## CITE
 
 - [`cex 6.3.3`](https://github.com/cite-architecture/cex)
 - [`citebinaryimage 3.1.0`](https://github.com/cite-architecture/citebinaryimage)
 - [`citejson 2.7.0`](https://github.com/cite-architecture/CITE-JSON)
-- `citeobj 7.3.4`
+- [`citeobj 7.3.4`](https://github.com/cite-architecture/citeobj)
 - [`citerelations 2.5.2`](https://github.com/cite-architecture/citerelations)
 - [`citewriter 1.2.2`](https://github.com/cite-architecture/citewriter)
 - `dse 5.2.1`
