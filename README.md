@@ -5,7 +5,7 @@ See API docs for all CITE libaries at <https://cite-architecture.github.io/cite-
 ## CITE
 
 - [`cex 6.3.3`](https://github.com/cite-architecture/cex)
-- [`citebinaryimage 3.1.0`](https://github.com/cite-architecture/citebinaryimage)
+- [`citebinaryimage 3.1.1`](https://github.com/cite-architecture/citebinaryimage)
 - [`citejson 2.7.0`](https://github.com/cite-architecture/CITE-JSON)
 - [`citeobj 7.3.4`](https://github.com/cite-architecture/citeobj)
 - [`citerelations 2.5.2`](https://github.com/cite-architecture/citerelations)
