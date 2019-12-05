@@ -1,8 +1,12 @@
 # Current versions of CITE and related libraries
 
-See API docs for all CITE libaries at <https://cite-architecture.github.io/cite-api-docs/>
-
 ## CITE
+
+See current version numbers and API docs for all CITE libaries at <https://cite-architecture.github.io/cite-api-docs/>.
+
+
+<!--  Let's deprecate this page and update version numbers on the cite-api-docs page instead
+
 
 - [`cex 6.3.3`](https://github.com/cite-architecture/cex)
 - [`citebinaryimage 3.1.1`](https://github.com/cite-architecture/citebinaryimage)
@@ -14,6 +18,7 @@ See API docs for all CITE libaries at <https://cite-architecture.github.io/cite-
 - [`ohco2 10.16.0`](https://github.com/cite-architecture/ohco2)
 - [`scm 7.0.1`](https://github.com/cite-architecture/scm)
 - [`xcite 4.1.1`](https://github.com/cite-architecture/xcite)
+-->
 
 ## Editing
 
